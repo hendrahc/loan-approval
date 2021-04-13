@@ -1,4 +1,4 @@
-loan_id,birth_date,phone_number,gender,married,dependents,education,self_employed,applicant_income,coapplicant_income,loan_amount,loan_term_month,loan_term_year,credit_history,property_area,loan_status
+loan_id,birth_date,phone_number,gender,married,dependents,education,self_employed,applicant_income,coapplicant_income,loan_amount,loan_term_month,loan_term_year,credit_history,property_type,loan_status
 LP001002,"1977-05-15","+628114203187",Male,No,0,Graduate,No,5849,0,100000,360,30,1,house,APPROVE
 LP001003,"1979-08-24","+628776449212",Male,Yes,1,Graduate,No,4583,1508,128000,360,30,1,studio,REJECT
 LP001005,"1991-03-28","+628119240537",Male,Yes,0,Graduate,Yes,3000,0,66000,360,30,1,house,APPROVE
